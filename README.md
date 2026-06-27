@@ -1,4 +1,4 @@
-# Problem Set 3: Introduction to AR
+# Augmented Reality
 
 ## Summary
 

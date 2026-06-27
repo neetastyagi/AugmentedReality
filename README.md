@@ -89,8 +89,4 @@ pip install numpy opencv-python scipy
 
 - The project contains both handcrafted implementations (SVD-based homography solver, pixel-wise inverse mapping projection) and OpenCV utilities (ArUco detection). Tests in ps3_tests.py expect numerical accuracy (SSIM and coordinate tolerance) — small implementation differences can affect the test results.
 
----
 
-If you want, I can:
-- Add a CONTRIBUTING or RUNNING.md with step-by-step instructions.
-- Add a small script to verify that required input files exist before running experiments/tests.
